@@ -25,7 +25,7 @@ On GitHub, navigate to this repository and click the "Fork" button. This creates
 Open your terminal and clone your forked repository:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your_username>/intro_to_numpy_and_pandas.git
+git clone https://github.com/<your_username>/intro_to_numpy_and_pandas.git
 ```
 
 and then type this command to enter into the directory.
